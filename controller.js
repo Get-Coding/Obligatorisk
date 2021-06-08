@@ -1,4 +1,4 @@
-/* import ChallengerView from './view.js'; */
+import ChallengerView from './view.js';
 import Model from './model.js';
 
 const Controller = {

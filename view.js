@@ -34,7 +34,7 @@ const ChallengerView = {
 	// Controller her. Med andre ord "binde" funksjonene utenfor selve View-objectet
 	Attack() {
 		return Controller.Attack();
-	},
+	}, 
 
 	Next() {
 		return Controller.Next();
